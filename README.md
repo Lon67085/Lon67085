@@ -6,4 +6,4 @@ This project is a personal website that introduces who I am, my educational back
 
 ## Live Website
 
-https://lon67085.github.io
+https://lon67085.github.io/Lon67085
